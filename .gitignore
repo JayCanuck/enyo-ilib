@@ -3,5 +3,4 @@ node_modules
 .e_cache
 .enyocache
 **/npm-debug.log
-lib
 dist
